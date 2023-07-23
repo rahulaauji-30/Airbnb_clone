@@ -2,11 +2,12 @@
 .top-nav{
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: 1200px;
     padding: 20px;
     position: fixed;
     top: 0;
     background-color: white;
+    margin:5px auto;
 }
 .mid-nav{
     display: flex;
@@ -42,6 +43,7 @@
     flex-wrap: wrap;
     margin-top: 150px;
     width: 1200px;
+    margin:0 auto;
 }
 .cards{
     width: 250px;
@@ -121,6 +123,7 @@
     position: fixed;
     top: 100px;
     background-color: white;
+    margin:0 auto;
 }
 
 .arrow{
